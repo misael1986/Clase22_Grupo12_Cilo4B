@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clase 22</string>
+    <string name="et_email">Email</string>
+    <string name="et_clave">Contrase\u00F1a</string>
+    <string name="et_Confclave">Contrasea Nuevamente</string>
+    <string name="btn_aceptar">Ingresar</string>
+    <string name="tv_crearUsuario">Si no tiene con una cuenta haga click aqu\u00ED</string>
+    <string name="btn_crear">Crear</string>
+    <string name="tv_cuenta_existe">La cuenta ya existe, intente nuevamente</string>
+    <string name="tv_volverLogin">Si ya tiene una cuenta, ingrese al sistema aqu\u00ED</string>
+</resources>
